@@ -1,0 +1,16 @@
+.inner__link {
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    transition: .1s linear;
+    color: #474346;
+}
+
+.inner__link:hover {
+    transform: scale(1.05);
+    text-decoration: underline;
+    color: black;
+}
